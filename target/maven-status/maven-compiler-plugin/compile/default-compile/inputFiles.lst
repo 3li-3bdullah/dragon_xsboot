@@ -1,0 +1,11 @@
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/service/PatientService.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/service/EmployeeService.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/SpringbootThymeleafCrudWebAppApplication.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/db/DBManager.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/repository/EmployeeRepository.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/model/Employee.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/controller/EmployeeController.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/controller/PatientController.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/model/PatientModel.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/db/MySQL.java
+/home/ali/Documents/DEV/XBOOT/crud/Spring-Boot-CRUD/src/main/java/crud/springboot/service/EmployeeServiceImpl.java
