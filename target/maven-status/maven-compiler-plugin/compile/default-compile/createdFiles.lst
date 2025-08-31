@@ -1,11 +1,13 @@
+crud/springboot/model/Inc$IncBuilder.class
 crud/springboot/controller/EmployeeController.class
 crud/springboot/service/EmployeeServiceImpl.class
-crud/springboot/db/DBManager.class
 crud/springboot/service/PatientService.class
 crud/springboot/repository/EmployeeRepository.class
-crud/springboot/db/MySQL.class
+crud/springboot/controller/IncController.class
+crud/springboot/model/Patient.class
 crud/springboot/model/PatientModel.class
 crud/springboot/model/Employee.class
 crud/springboot/controller/PatientController.class
 crud/springboot/service/EmployeeService.class
+crud/springboot/model/Inc.class
 crud/springboot/SpringbootThymeleafCrudWebAppApplication.class
